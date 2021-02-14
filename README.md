@@ -1,4 +1,4 @@
-# AI/ML Powered Companies In Egypt
+# AI/ML Driven Companies In Egypt
 
 This repository is intented to aid aspiring AI/ML enthusiasts by providing a list of companies working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
 
@@ -88,5 +88,4 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Intouch](https://www.intouch.com/) | Machine Learning, Deep Learning |
 
 ## Credits
-
-This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ; )
+This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
