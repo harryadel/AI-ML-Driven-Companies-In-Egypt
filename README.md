@@ -1,10 +1,12 @@
 # AI/ML Powered Companies In Egypt
 
 This repository is intented to aid aspiring AI/ML enthusiasts by providing a list of companies working in such fields. However, this is a mere starting point, you need to put in your own work and lookup companies thoroughly to grasp the underlying tech used.   
+
      
+
 [AI-Driven-Companies-in-Egypt](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt)
 
->if you want to learn more about the requirements for the AI/Data science related positions in these companies, then simply Google "Careers in [Company name]" and you will find a lot of posts, this can somehow tell you what are the requirements they need really.
+> if you want to learn more about the requirements for the AI/Data science related positions in these companies, then simply Google "Careers in [Company name]" and you will find a lot of posts, this can somehow tell you what are the requirements they need really.
 
 | Company | Domain |  
 | --- | --- |
@@ -19,7 +21,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Elves](https://www.elvesapp.com/) | Chatbots |
 | [Bee Smart Payment Solutions](https://bee.com.eg/en/) | ML, Big Data |
 | [Cequens](https://www.cequens.com/) | Predictive models, Machine Learning, Chatbots | 
-| [Cognitev](https://cognitev.com/) | ML,DL, Recommendation systems, IR (Information Retrieval), NLP (Natural - Language Processing) |
+| [Cognitev](https://cognitev.com/) | ML, DL, Recommendation systems, IR (Information Retrieval), NLP (Natural - Language Processing) |
 | [Comiot](https://www.com-iot.com/) | Iot, Computer vision, ML |
 | [Crowd Analyzer](https://www.crowdanalyzer.com/) | Big data, Machine learning, Social Media Analysis, Arabic in Social Media Analytics |
 | [Data Gear BI](http://www.datagearbi.com/) | Data Mining, Business Intelligence(BI) |
@@ -83,6 +85,8 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [04egypt](http://04egypt.com/) | Chatbots, NLP |
 | [MerQ](https://www.merq.ai/) | Chatbots, NLP |
 | [Digisay](https://www.digisay.com/) | Machine Learning, Deep Learning |
+| [Intouch](https://www.intouch.com/) | Machine Learning, Deep Learning |
 
 ## Credits
-This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
+
+This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ; )
