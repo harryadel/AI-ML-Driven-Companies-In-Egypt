@@ -86,6 +86,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [MerQ](https://www.merq.ai/) | Chatbots, NLP |
 | [Digisay](https://www.digisay.com/) | Machine Learning, Deep Learning |
 | [Intouch](https://www.intouch.com/) | Machine Learning, Deep Learning |
+| [Cassbana](https://www.cassbana.com) | Machine Learning, Deep Learning |
 
 ## Credits
 This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
