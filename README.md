@@ -105,6 +105,12 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Botitapp](https://botitapp.com/) | Data Science, NLP |
 | [shopxgo/Koinz](shopxgo.com) | Data Analysis |
 | [Brightskies](https://brightskiesinc.com/) | Machine Learning, Autonomous Driving |
+| [DXWand](https://dxwand.com/) | Machine Learning, text and speech analytics, NLP, analytics services |
+| [MobiDev](https://mobidev.biz/) | AI apps |
+
+
+
+
 
 ## Credits
 This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
