@@ -107,8 +107,9 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Brightskies](https://brightskiesinc.com/) | Machine Learning, Autonomous Driving |
 | [DXWand](https://dxwand.com/) | Machine Learning, text and speech analytics, NLP, analytics services |
 | [MobiDev](https://mobidev.biz/) | AI apps |
-
-
+| [Cyshield](https://cyshield.bamboohr.com/jobs/) | Data Science |
+| [Fixed Solutions](https://wuzzuf.net/jobs/careers/Fixed-Solutions-Egypt-18523) | Data Science |
+| [Nawy](https://www.linkedin.com/company/nawyestate/) | Data Science, Business Intelligence |
 
 
 
