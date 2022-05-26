@@ -110,6 +110,10 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Cyshield](https://cyshield.bamboohr.com/jobs/) | Data Science |
 | [Fixed Solutions](https://wuzzuf.net/jobs/careers/Fixed-Solutions-Egypt-18523) | Data Science |
 | [Nawy](https://www.linkedin.com/company/nawyestate/) | Data Science, Business Intelligence |
+| [Lenme](https://lenme.com/) | Machine Learning |
+| [Atomica](https://www.atomica.ai/) | Machine Learning, Computer Vision | 
+| [blnk.ai](https://www.blnk.ai/) | Machine Learning | 
+| [Aimtechnologies](https://www.aimtechnologies.co/) | Data Science, Machine Learning |
 
 ## Additional Resources
 
