@@ -101,7 +101,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Buseet](https://buseet.com/) | Data Analysis, Business Intelligence, Data Science |
 | [Mawdoo3](https://ai.mawdoo3.com/) | Data Science, NLP | 
 | [Botitapp](https://botitapp.com/) | Data Science, NLP |
-| [shopxgo/Koinz](shopxgo.com) | Data Analysis |
+| [Koinz](https://koinz.app/) | Data Analysis |
 | [Brightskies](https://brightskiesinc.com/) | Machine Learning, Autonomous Driving |
 | [DXWand](https://dxwand.com/) | Machine Learning, text and speech analytics, NLP, analytics services |
 | [MobiDev](https://mobidev.biz/) | AI apps |
