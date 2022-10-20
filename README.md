@@ -75,7 +75,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Smart Medical Services](http://www.smart-medicalservices.com/) | Machine Learning |
 | [Okhtub](http://okhtub.com/) | Machine Learning |
 | [DevisionX](https://devisionx.com/) | Deep Learning, Computer Vision |
-| [iNetworks](http://inet.works/) | Machine Learning, Recommendation Systems |
+| [ztechnium](https://ztechnium.com/) | Machine Learning, Recommendation Systems |
 | [Lyra](https://www.lyrise.ai/)) | Machine Learning |
 | [Cammedar Health](http://cammedar.com/) | Machine Learning |
 | [Botme](https://www.botme.com/) | Chatbots, NLP | 
