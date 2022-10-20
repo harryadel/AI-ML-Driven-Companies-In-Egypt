@@ -50,7 +50,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Tactful](https://www.tactful.ai/) | Conversational Agents, NLU, DL, Information Retrieval |
 | [Tahrir news](http://www.tahrirnews.com/) | Machine learning, Deep learning, NLP(Arabic & English) |
 | [TA Telecom](https://www.tatelecom.com/) | Big Data |
-| [TayRec](http://www.tayrec.com/) | Quantitative data analysis, Big Data, ML |
 | [Teradata](http://www.teradata.com/) | Big Data Analytics, machine learning and data mining |
 | [The D. GmbH](https://thed.io/#/) | NLP, Chatbots, Computer Vision, Video Analysis |
 | [Tpay](https://www.tpaymobile.com/) | Machine learning |
