@@ -25,7 +25,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Comiot](https://www.com-iot.com/) | Iot, Computer vision, ML |
 | [Crowd Analyzer](https://www.crowdanalyzer.com/) | Big data, Machine learning, Social Media Analysis, Arabic in Social Media Analytics |
 | [Data Gear BI](http://www.datagearbi.com/) | Data Mining, Business Intelligence(BI) |
-| [DLC](http://www.dlctt.com/) | Recommendation systems, NLP, Chatbots |
 | [El menus](https://www.elmenus.com/) | Recommendation systems, NLP |
 | [Heuro Labs](http://www.heurolabs.com/) | Artificial Intelligence, Cognitive Computing, Machine Learning, Big Data, Data Fusion and Data Mining |
 | [IBM Egypt](https://www.ibm.com/eg-en) | NLP(Watson practice team), ML, DL |
@@ -33,7 +32,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [InnoVision Systems](http://www.ivsystems-eg.com/) | Robotics, computer vision |
 | [Itworx](http://www.itworx.com/) | Big Data |
 | [Knowledge officer](https://knowledgeofficer.com/) | information retrieval and text summarization for articles on the web. Based mainly for many NLP and recommendation systems |
-| [Media Gate](http://www.mediagatestudios.com/) | AI for game development |
 | [Mendel.ai](https://mendel.ai/) | Artificial Intelligence in Medicine, Machine learning, OCR, NLP |
 | [Microsoft ATLc](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | ML, DL, NLP, OCR, Speech, Search engines(Bing team) |
 | [Optomatica](https://optomatica.com/) | Machine Learning, AI and Optimization solutions, Analytics |
