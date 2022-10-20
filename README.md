@@ -111,6 +111,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [blnk.ai](https://www.blnk.ai/) | Machine Learning | 
 | [Aimtechnologies](https://www.aimtechnologies.co/) | Data Science, Machine Learning |
 | [SURE International Technology](https://www.sure.com.sa/) | | Machine Learning, AI | 
+| [BBI-Consultancy](http://www.bbi-consultancy.com/) | Data Science |
 
 ## Additional Resources
 
