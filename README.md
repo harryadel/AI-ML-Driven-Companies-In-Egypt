@@ -76,7 +76,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Okhtub](http://okhtub.com/) | Machine Learning |
 | [DevisionX](https://devisionx.com/) | Deep Learning, Computer Vision |
 | [iNetworks](http://inet.works/) | Machine Learning, Recommendation Systems |
-| [Lyra](http://lyranalytics.com/) | Machine Learning |
+| [Lyra](https://www.lyrise.ai/)) | Machine Learning |
 | [Cammedar Health](http://cammedar.com/) | Machine Learning |
 | [Botme](https://www.botme.com/) | Chatbots, NLP | 
 | [Converted.in](https://www.converted.in/) | Machine Learning |
