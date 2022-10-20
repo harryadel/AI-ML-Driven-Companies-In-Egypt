@@ -16,7 +16,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Affectiva](https://www.affectiva.com/) | Machine learning, Deep learning, Computer vision, Speech(new project(s)) |
 | [Agolo](https://www.agolo.com/) | NLP, ML, DL |
 | [Arqamfc](https://www.arqamfc.com/) | Analytics |
-| [Ave labs](avelabs.com) | Deep learning, Machine learning techniques, Computer vision, Image Processing and Signal Processing, Control theory & Artificial Intelligence |
+| [Ave labs](https://www.avelabs.com) | Deep learning, Machine learning techniques, Computer vision, Image Processing and Signal Processing, Control theory & Artificial Intelligence |
 | [AvidBeam](https://www.avidbeam.com/) | Machine learning, OCR, Computer vision, DL |
 | [Elves](https://www.elvesapp.com/) | Chatbots |
 | [Bee Smart Payment Solutions](https://bee.com.eg/en/) | ML, Big Data |
