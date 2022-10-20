@@ -80,7 +80,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Cammedar Health](http://cammedar.com/) | Machine Learning |
 | [Botme](https://www.botme.com/) | Chatbots, NLP | 
 | [Converted.in](https://www.converted.in/) | Machine Learning |
-| [04egypt](http://04egypt.com/) | Chatbots, NLP |
 | [MerQ](https://www.merq.ai/) | Chatbots, NLP |
 | [Digisay](https://www.digisay.com/) | Machine Learning, Deep Learning |
 | [Intouch](https://www.intouch.com/) | Machine Learning, Deep Learning |
