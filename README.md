@@ -112,6 +112,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Aimtechnologies](https://www.aimtechnologies.co/) | Data Science, Machine Learning |
 | [SURE International Technology](https://www.sure.com.sa/) | | Machine Learning, AI | 
 | [BBI-Consultancy](http://www.bbi-consultancy.com/) | Data Science |
+| [Tensorgraph](https://www.tensorgraph.io/) | AI, Voice Recognition |
 
 ## Additional Resources
 
