@@ -38,7 +38,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Oracle](https://www.oracle.com/eg/index.html) | Machine learning, Big data |
 | [Orange](https://www.orange.eg/en/) | ML, Big Data, Data Analytics |
 | [Pixellion](https://www.pixelliongroup.com/) | Image processing, Machine learning, Deep learning, Computer vision, image recognition in the retail industry |
-| [Raisa Energy](https://www.raisaenergy.com/) | ML, predictive modeling |
+| [Raisa Energy](https://www.raisa.com/) | ML, predictive modeling |
 | [RDI](http://www.rdi-eg.com/) | Machine learning, Deep learning, Arabic/English OCR, Search engines, Information retrieval, Arabic/English NLP and Arabic/English speech recognition/identification |
 | [Rology](https://rology.health/) | Computer Vision, Medical Image Processing, Machine Learning |
 | [Sadeem®](http://www.sadeemknowledge.com/) | IoT & Business Analytics |
@@ -108,7 +108,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Fixed Solutions](https://wuzzuf.net/jobs/careers/Fixed-Solutions-Egypt-18523) | Data Science |
 | [Nawy](https://www.linkedin.com/company/nawyestate/) | Data Science, Business Intelligence |
 | [Lenme](https://lenme.com/) | Machine Learning |
-| [Atomica](https://www.atomica.ai/) | Machine Learning, Computer Vision | 
+| [Atomica](https://atomica.ai/) | Machine Learning, Computer Vision | 
 | [blnk.ai](https://www.blnk.ai/) | Machine Learning | 
 | [Aimtechnologies](https://www.aimtechnologies.co/) | Data Science, Machine Learning |
 
