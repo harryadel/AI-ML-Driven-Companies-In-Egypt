@@ -83,7 +83,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Pegasus](https://www.pegasus-oe.com/) | Data Analytics, BI |
 | [Z2data](https://www.z2data.com/) | Data Analytics |
 | [Dataplusme](https://www.dataplusme.com/) | Data Analytics, Data Science, Big Data Analytics, Data visualization |
-| [3adda](https://www.3adda.com/) | Data Analytics, Business Intelligence |
 | [Path Solutions](https://www.path-solutions.com/) | Big Data |
 | [Ingram Micro](https://www.ingrammicro.com/) | Data Science, Business Intelligence |
 | [Scopic](https://scopicsoftware.com/) | Big Data |
@@ -93,7 +92,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Halan](https://www.halan.com/) | Data Analysis, Business Intelligence, Data Science |
 | [Mwasalat Misr](https://www.mwasalatmisr.com/) | Data Analysis, Business Intelligence, Data Science |
 | [Swvl](https://www.swvl.com/) | Data Analysis, Business Intelligence, Data Science |
-| [Buseet](https://buseet.com/) | Data Analysis, Business Intelligence, Data Science |
 | [Mawdoo3](https://ai.mawdoo3.com/) | Data Science, NLP | 
 | [Botitapp](https://botitapp.com/) | Data Science, NLP |
 | [Koinz](https://koinz.app/) | Data Analysis |
