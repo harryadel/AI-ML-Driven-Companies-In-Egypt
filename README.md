@@ -48,7 +48,6 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Sypron](https://www.sypron.com/) | Big Data, ML, DL, Computer vision, NLP, General AI apps |
 | [Stratochem](http://stratochem.com/) | Data analysis, Image processing, data mining |
 | [Tactful](https://www.tactful.ai/) | Conversational Agents, NLU, DL, Information Retrieval |
-| [Tahrir news](http://www.tahrirnews.com/) | Machine learning, Deep learning, NLP(Arabic & English) |
 | [TA Telecom](https://www.tatelecom.com/) | Big Data |
 | [Teradata](http://www.teradata.com/) | Big Data Analytics, machine learning and data mining |
 | [The D. GmbH](https://thed.io/#/) | NLP, Chatbots, Computer Vision, Video Analysis |
@@ -62,20 +61,18 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Yaoota!](https://yaoota.com/en-eg/) | Search engine, Big data, ML, NLP |
 | [Vodafone](https://web.vodafone.com.eg/ar/home) | Big data, ML |
 | [Wakeb Data](http://wakeb.tech/) | Business Intelligence, Data Analysis, Artificial Intelligence |
-| [DilenyTech](http://www.dilenytech.com/) | Computer Vision |
 | [Synapse Analytics](https://www.synapse-analytics.io/) | ML, Computer Vision | 
 | [Asas Alqarar](http://asasalqarar.com/) | Machine Learning, Deep Learning | 
 | [Dell EMC](https://www.delltechnologies.com/en-us/index.htm) | Machine Learning, Big Data |
-| [360imaging](http://www.360imaging.com/) | Computer Guided Surgery, Medical Imaging |
+| [3sixtydental](https://3sixtydental.com/) | Computer Guided Surgery, Medical Imaging |
 | [Fruitful Solutions](https://fruitful.solutions/) | Deep Learning, Computer Vision |
 | [Advanced Intelligent Technologies](https://advintic.com/) | Machine Learning, Deep Learning |
 | [Digified](https://digified.io/) | Machine Learning, Computer Vision |
 | [iHub](http://ihub.asu.edu.eg/) | Machine Learning |
 | [Smart Medical Services](http://www.smart-medicalservices.com/) | Machine Learning |
-| [Okhtub](http://okhtub.com/) | Machine Learning |
 | [DevisionX](https://devisionx.com/) | Deep Learning, Computer Vision |
 | [ztechnium](https://ztechnium.com/) | Machine Learning, Recommendation Systems |
-| [Lyra](https://www.lyrise.ai/)) | Machine Learning |
+| [Lyra](https://www.lyrise.ai/) | Machine Learning |
 | [Cammedar Health](http://cammedar.com/) | Machine Learning |
 | [Botme](https://www.botme.com/) | Chatbots, NLP | 
 | [Converted.in](https://www.converted.in/) | Machine Learning |
