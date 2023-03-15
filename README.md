@@ -115,7 +115,8 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 
 ## Additional Resources
 
-Use [Stackinfo](http://stackinfo.me/) to look up companies per technology.
+- Use [Stackinfo](http://stackinfo.me/) to look up companies per technology.
+- [List of Internships](https://github.com/ACM-Alexandria-SC/Internships)
 
 ## Credits
 This repository is nothing but a humble continuation of the [great work](https://www.quora.com/q/myinterviewsexperiencein/AI-Driven-Companies-in-Egypt) done by [Abdelrahman Radwan](https://www.linkedin.com/in/abdelrahman-hamdy-radwan/). And thanks to [Ibrahim Sharaf](https://www.linkedin.com/in/ibrahimsharafelden/) for pointing out the Quora article. ;)
