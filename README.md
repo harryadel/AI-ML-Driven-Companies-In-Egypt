@@ -109,7 +109,8 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [BBI-Consultancy](http://www.bbi-consultancy.com/) | Data Science |
 | [Tensorgraph](https://www.tensorgraph.io/) | AI, Voice Recognition |
 | [Etisalat](https://www.etisalat.eg/) | Machine Learning, Data Science |
-| [valify](https://valify.me/) | Machien Learning |
+| [valify](https://valify.me/) | Machine Learning |
+| [tachyhealth](https://www.tachyhealth.com/) | Machine Learning |
 
 ## Additional Resources
 
