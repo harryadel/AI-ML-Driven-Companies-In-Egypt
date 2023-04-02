@@ -37,6 +37,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Optomatica](https://optomatica.com/) | Machine Learning, AI and Optimization solutions, Analytics |
 | [Oracle](https://www.oracle.com/eg/index.html) | Machine learning, Big data |
 | [Orange](https://www.orange.eg/en/) | ML, Big Data, Data Analytics |
+| [Orange Digital Centers](https://www.orangedigitalcenters.com/country/EG/home) | ML, Data Science |
 | [Pixellion](https://www.pixelliongroup.com/) | Image processing, Machine learning, Deep learning, Computer vision, image recognition in the retail industry |
 | [Raisa Energy](https://www.raisa.com/) | ML, predictive modeling |
 | [RDI](http://www.rdi-eg.com/) | Machine learning, Deep learning, Arabic/English OCR, Search engines, Information retrieval, Arabic/English NLP and Arabic/English speech recognition/identification |
