@@ -27,7 +27,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Data Gear BI](http://www.datagearbi.com/) | Data Mining, Business Intelligence(BI) |
 | [El menus](https://www.elmenus.com/) | Recommendation systems, NLP |
 | [Heuro Labs](http://www.heurolabs.com/) | Artificial Intelligence, Cognitive Computing, Machine Learning, Big Data, Data Fusion and Data Mining |
-| [IBM Egypt](https://www.ibm.com/eg-en) | NLP(Watson practice team), ML, DL |
+| [IBM Egypt](https://www.ibm.com/careers/uk-en/search/?filters=primary_country%3AEG) | NLP(Watson practice team), ML, DL |
 | [Incorta](https://incorta.com/) | Robotics, computer vision |
 | [InnoVision Systems](http://www.ivsystems-eg.com/) | Robotics, computer vision |
 | [Itworx](http://www.itworx.com/) | Big Data |
