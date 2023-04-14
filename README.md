@@ -112,7 +112,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Etisalat](https://www.etisalat.eg/) | Machine Learning, Data Science |
 | [valify](https://valify.me/) | Machine Learning |
 | [tachyhealth](https://www.tachyhealth.com/) | Machine Learning |
-
+| [Kazyon](https://store.kazyonplus.com/store/kazyon/en) | Data Science, ETL, Machine Learning |
 ## Additional Resources
 
 - Use [Stackinfo](http://stackinfo.me/) to look up companies per technology.
