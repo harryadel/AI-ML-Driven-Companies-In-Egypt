@@ -54,7 +54,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Heuro Labs](http://www.heurolabs.com/) | Artificial Intelligence, Cognitive Computing, Machine Learning, Big Data, Data Fusion and Data Mining |
 | [IBM Egypt](https://www.ibm.com/careers/uk-en/search/?filters=primary_country%3AEG) | NLP(Watson practice team), ML, DL |
 | [iHub](http://ihub.asu.edu.eg/) | Machine Learning |
-| [Incorta](https://incorta.com/) | Robotics, computer vision |
+| [Incorta](https://incorta.com/) | Data Analytics, Business Intelligence |
 | [Ingram Micro](https://www.ingrammicro.com/) | Data Science, Business Intelligence |
 | [InnoVision Systems](http://www.ivsystems-eg.com/) | Robotics, computer vision |
 | [Intouch](https://www.intouch.com/) | Machine Learning, Deep Learning |
