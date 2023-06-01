@@ -46,6 +46,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [DXWand](https://dxwand.com/) | Machine Learning, text and speech analytics, NLP, analytics services |
 | [El menus](https://www.elmenus.com/) | Recommendation systems, NLP |
 | [Elves](https://www.elvesapp.com/) | Chatbots |
+| [Ericsson](https://www.ericsson.com/en/careers/global-locations/middle-east-africa/ai-cloud-in-egypt) | Artificial Intelligence, Cognitive Networks, Machine Learning, Data Science |
 | [Etisalat](https://www.etisalat.eg/) | Machine Learning, Data Science |
 | [Fixed Solutions](https://wuzzuf.net/jobs/careers/Fixed-Solutions-Egypt-18523) | Data Science |
 | [Fruitful Solutions](https://fruitful.solutions/) | Deep Learning, Computer Vision |
