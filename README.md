@@ -60,6 +60,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [InnoVision Systems](http://www.ivsystems-eg.com/) | Robotics, computer vision |
 | [Intouch](https://www.intouch.com/) | Machine Learning, Deep Learning |
 | [Itworx](http://www.itworx.com/) | Big Data |
+| [Intixel](https://www.intixel.com/) | Machine Learning, Image Analysis |
 | [Kazyon](https://store.kazyonplus.com/store/kazyon/en) | Data Science, ETL, Machine Learning |
 | [Knowledge officer](https://knowledgeofficer.com/) | information retrieval and text summarization for articles on the web. Based mainly for many NLP and recommendation systems |
 | [Koinz](https://koinz.app/) | Data Analysis |
