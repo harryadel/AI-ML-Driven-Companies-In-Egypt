@@ -80,6 +80,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Path Solutions](https://www.path-solutions.com/) | Big Data |
 | [Pegasus](https://www.pegasus-oe.com/) | Data Analytics, BI |
 | [Pixellion](https://www.pixelliongroup.com/) | Image processing, Machine learning, Deep learning, Computer vision, image recognition in the retail industry |
+| [Pianat.ai](https://pianat.ai/) | Finance, ML |
 | [Raisa Energy](https://www.raisa.com/) | ML, predictive modeling |
 | [RDI](http://www.rdi-eg.com/) | Machine learning, Deep learning, Arabic/English OCR, Search engines, Information retrieval, Arabic/English NLP and Arabic/English speech recognition/identification |
 | [Rology](https://rology.health/) | Computer Vision, Medical Image Processing, Machine Learning |
