@@ -27,6 +27,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Bee Smart Payment Solutions](https://bee.com.eg/en/) | ML, Big Data |
 | [blnk.ai](https://www.blnk.ai/) | Machine Learning |
 | [Botitapp](https://botitapp.com/) | Data Science, NLP |
+| [Bosta](https://www.bosta.co/) | Data Analytics, Data Science |
 | [Botme](https://www.botme.com/) | Chatbots, NLP |
 | [Brightskies](https://brightskiesinc.com/) | Machine Learning, Autonomous Driving |
 | [Cammedar Health](http://cammedar.com/) | Machine Learning |
