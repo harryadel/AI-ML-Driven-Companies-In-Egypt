@@ -119,6 +119,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [ztechnium](https://ztechnium.com/) | Machine Learning, Recommendation Systems |
 | [smarteye.se](https://smarteye.se/career/) | Machine Learning, Computer Vision |
 | [bydotpy](https://www.bydotpy.com/index.html) | Machine Learning |
+| [Lumin](https://luminsoft.net/) | Machine Learning, Computer Vision |
 
 
 ## Additional Resources
