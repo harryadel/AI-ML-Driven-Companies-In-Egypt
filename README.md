@@ -110,7 +110,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [valify](https://valify.me/) | Machine Learning |
 | [Vodafone](https://web.vodafone.com.eg/ar/home) | Big data, ML |
 | [Wakeb Data](http://wakeb.tech/) | Business Intelligence, Data Analysis, Artificial Intelligence |
-| [Wego](https://eg.wego.com/en) | Data analysis, machine learning, recommendation systems |
+| [Wego](https://eg.wego.com/en) | Data analysis, Machine Learning, Recommendation Systems |
 | [WideBot](https://widebot.net/platform/) | Chatbots, NLP |
 | [Wuzzuf](https://wuzzuf.net/) | Machine learning, NLP(new project(s)), Search engines, Recommendation/Ranking systems and information retrieval |
 | [Xtrava](http://xtrava.co/) | Machine learning, Deep learning, Signal processing |
@@ -118,6 +118,8 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Z2data](https://www.z2data.com/) | Data Analytics |
 | [ztechnium](https://ztechnium.com/) | Machine Learning, Recommendation Systems |
 | [smarteye.se](https://smarteye.se/career/) | Machine Learning, Computer Vision |
+| [bydotpy](https://www.bydotpy.com/index.html) | Machine Learning |
+
 
 ## Additional Resources
 
