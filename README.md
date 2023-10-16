@@ -117,6 +117,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Yaoota!](https://yaoota.com/en-eg/) | Search engine, Big data, ML, NLP |
 | [Z2data](https://www.z2data.com/) | Data Analytics |
 | [ztechnium](https://ztechnium.com/) | Machine Learning, Recommendation Systems |
+| [smarteye.se](https://smarteye.se/career/) | Machine Learning, Computer Vision |
 
 ## Additional Resources
 
