@@ -65,6 +65,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Kazyon](https://store.kazyonplus.com/store/kazyon/en) | Data Science, ETL, Machine Learning |
 | [Knowledge officer](https://knowledgeofficer.com/) | information retrieval and text summarization for articles on the web. Based mainly for many NLP and recommendation systems |
 | [Koinz](https://koinz.app/) | Data Analysis |
+| [Khazna](https://www.linkedin.com/company/khazna/about/) | Machine Learning |
 | [Lenme](https://lenme.com/) | Machine Learning |
 | [Lyra](https://www.lyrise.ai/) | Machine Learning |
 | [Mawdoo3](https://ai.mawdoo3.com/) | Data Science, NLP |
