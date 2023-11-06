@@ -120,7 +120,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [smarteye.se](https://smarteye.se/career/) | Machine Learning, Computer Vision |
 | [bydotpy](https://www.bydotpy.com/index.html) | Machine Learning |
 | [Lumin](https://luminsoft.net/) | Machine Learning, Computer Vision |
-
+| [Giza Systems](https://www.gizasystemscareers.com/en/) | Machine Learning |
 
 ## Additional Resources
 
