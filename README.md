@@ -121,6 +121,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [bydotpy](https://www.bydotpy.com/index.html) | Machine Learning |
 | [Lumin](https://luminsoft.net/) | Machine Learning, Computer Vision |
 | [Giza Systems](https://www.gizasystemscareers.com/en/) | Machine Learning |
+| [datagearbi](https://datagearbi.com/) | Machine Learning |
 
 ## Additional Resources
 
