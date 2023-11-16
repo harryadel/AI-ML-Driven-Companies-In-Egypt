@@ -30,6 +30,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Bosta](https://www.bosta.co/) | Data Analytics, Data Science |
 | [Botme](https://www.botme.com/) | Chatbots, NLP |
 | [Brightskies](https://brightskiesinc.com/) | Machine Learning, Autonomous Driving |
+| [Beltone](https://beltoneholding.com/) | Machine Learning, Finance |
 | [Cammedar Health](http://cammedar.com/) | Machine Learning |
 | [Cassbana](https://www.cassbana.com) | Machine Learning, Deep Learning |
 | [Cequens](https://www.cequens.com/) | Predictive models, Machine Learning, Chatbots |
