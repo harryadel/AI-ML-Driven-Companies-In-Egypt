@@ -75,6 +75,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Microsoft ATLc](https://www.microsoft.com/en-us/research/group/advanced-technology-lab-cairo-2/) | ML, DL, NLP, OCR, Speech, Search engines(Bing team) |
 | [MobiDev](https://mobidev.biz/) | AI apps |
 | [Mwasalat Misr](https://www.mwasalatmisr.com/) | Data Analysis, Business Intelligence, Data Science |
+| [Mahaseel](https://www.mahaseel.net/careers)| AI ,ML , Image Processing, Computer Vision |
 | [Nawy](https://www.linkedin.com/company/nawyestate/) | Data Science, Business Intelligence |
 | [Optomatica](https://optomatica.com/) | Machine Learning, AI and Optimization solutions, Analytics |
 | [Oracle](https://www.oracle.com/eg/index.html) | Machine learning, Big data |
