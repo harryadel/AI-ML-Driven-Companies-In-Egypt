@@ -112,6 +112,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Valeo](https://www.valeo.com/ar/%D9%85%D8%B5%D8%B1/) | ML, DL, reinforcement learning, Computer vision, Autonomous driving |
 | [valify](https://valify.me/) | Machine Learning |
 | [Vodafone](https://web.vodafone.com.eg/ar/home) | Big data, ML |
+| [Voyance Health](https://voyance.health/) | Computer Vision, Image Processing |
 | [Wakeb Data](http://wakeb.tech/) | Business Intelligence, Data Analysis, Artificial Intelligence |
 | [Wego](https://eg.wego.com/en) | Data analysis, Machine Learning, Recommendation Systems |
 | [WideBot](https://widebot.net/platform/) | Chatbots, NLP |
