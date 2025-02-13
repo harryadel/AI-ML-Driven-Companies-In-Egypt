@@ -126,6 +126,7 @@ This repository is intented to aid aspiring AI/ML enthusiasts by providing a lis
 | [Lumin](https://luminsoft.net/) | Machine Learning, Computer Vision |
 | [Giza Systems](https://www.gizasystemscareers.com/en/) | Machine Learning |
 | [datagearbi](https://datagearbi.com/) | Machine Learning |
+| [Aone](https://aoneai.co/) | Chatbots, NLP |
 
 ## Additional Resources
 
